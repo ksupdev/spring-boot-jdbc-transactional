@@ -1,0 +1,1 @@
+D:\docker\docker-compose\mysql> docker-compose up
